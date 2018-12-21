@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ee6fbea-a2d4-4e87-9414-707ae67fd5ba" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>table</find>
+      <find>td</find>
+      <find>checkbox</find>
+      <find>$users_record</find>
+      <find>delete</find>
+      <find>select</find>
+      <find>LiNS</find>
+      <find>easy_delivery</find>
+      <find>myPage</find>
+      <find>navbar</find>
+      <find>navbar-brand-img</find>
+      <find>header</find>
+      <find>glyphicon</find>
+      <find>glyphicon-map-marker</find>
+      <find>header-nav</find>
+      <find>balance_second_mortgage</find>
+      <find>\} else \{\n            \$this\-\&gt;index\(\)\;\n        \}</find>
+      <find>Hem</find>
+      <find>if (!empty($_POST)) {</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Hem</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/models/Leadgen_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Leadgen.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/leadgen_form.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/permission_mapping.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/module_form.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/user_form.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/role_form.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen_refinacing.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen_property_used.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen_main.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen_footer.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/UserAuth.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form.php" />
+        <option value="$PROJECT_DIR$/themes/main/main.css" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/property_purchasing.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_section.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/Leadgen_main.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form1.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/property_type.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/property_used.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form2.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form3.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/Leadgen_header.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/Leadgen_footer.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form6.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form7.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form9.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form10.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form8.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form11.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form4.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form1.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form5.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form2.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form5.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form12.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form13.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form14.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/purchase_form15.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/success_page.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form3.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form4.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form6.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form7.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form8.php" />
+        <option value="$PROJECT_DIR$/application/views/Leadgen/refinance_form7_1.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Leadgen.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/y/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/themes/jrange-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="788" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeadGen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="LeadGen" type="cbb8eebc:String" user="LeadGen" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/PHPProject/EscortAgency" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LeadGen\application\views\Leadgen" />
+      <recent name="C:\xampp\htdocs\LeadGen\themes" />
+      <recent name="C:\xampp\htdocs\LeadGen\themes\admin\js" />
+      <recent name="C:\xampp\htdocs\LeadGen\application\views" />
+      <recent name="C:\xampp\htdocs\LeadGen\themes\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LeadGen\application\views\Leadgen" />
+      <recent name="C:\xampp\htdocs\LeadGen\application\controllers\admin" />
+      <recent name="C:\xampp\htdocs\LeadGen\themes" />
+      <recent name="C:\xampp\htdocs\DelivaryBoy\application\views\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee6fbea-a2d4-4e87-9414-707ae67fd5ba" name="Default" comment="" />
+      <created>1542619554982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542619554982</updated>
+      <workItem from="1542619556662" duration="599000" />
+      <workItem from="1542780832377" duration="7096000" />
+      <workItem from="1542863685410" duration="3948000" />
+      <workItem from="1543213790788" duration="10067000" />
+      <workItem from="1543296494807" duration="7995000" />
+      <workItem from="1543382752152" duration="12146000" />
+      <workItem from="1543467900856" duration="9347000" />
+      <workItem from="1543552383266" duration="15997000" />
+      <workItem from="1543815575885" duration="7889000" />
+      <workItem from="1543903163194" duration="6654000" />
+      <workItem from="1543995026393" duration="12320000" />
+      <workItem from="1544078125923" duration="2750000" />
+      <workItem from="1544166276558" duration="599000" />
+      <workItem from="1544368968389" duration="921000" />
+      <workItem from="1544507904319" duration="3539000" />
+      <workItem from="1544513596808" duration="7937000" />
+      <workItem from="1544593836936" duration="3366000" />
+      <workItem from="1544598678705" duration="11502000" />
+      <workItem from="1544677590893" duration="7890000" />
+      <workItem from="1544938603050" duration="730000" />
+      <workItem from="1545044464068" duration="99000" />
+      <workItem from="1545108512518" duration="18492000" />
+      <workItem from="1545196551310" duration="22784000" />
+      <workItem from="1545235737174" duration="2521000" />
+      <workItem from="1545284585390" duration="10552000" />
+      <workItem from="1545372807518" duration="11147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="198887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32954547" />
+      <window_info active="true" content_ui="combo" x="488" y="147" width="449" height="616" id="Project" order="0" visible="true" weight="0.29500756" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/admin/Role.php</url>
+          <line>165</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/property_purchasing.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_section.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="144" column="54" selection-start-line="144" selection-start-column="54" selection-end-line="144" selection-end-column="54" />
+          <folding>
+            <element signature="n#add#0;n#Role#0;n#!!top" />
+            <element signature="n#view_roles#0;n#Role#0;n#!!top" />
+            <element signature="n#role_delete#0;n#Role#0;n#!!top" />
+            <element signature="n#role_module_mapping_delete#0;n#Role#0;n#!!top" />
+            <element signature="n#permission#0;n#Role#0;n#!!top" />
+            <element signature="n#permission_post#0;n#Role#0;n#!!top" />
+            <element signature="n#edit#0;n#Role#0;n#!!top" />
+            <element signature="n#post_data#0;n#Role#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/Leadgen_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/user_auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="104" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/leadgen_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="60" column="42" lean-forward="true" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/module_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1169">
+          <caret line="71" column="116" selection-start-line="71" selection-start-column="116" selection-end-line="71" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/user_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/jRange-master/demo/prism/prism.js" />
+    <entry file="file://$PROJECT_DIR$/themes/jRange-master/demo/index.html" />
+    <entry file="file://$PROJECT_DIR$/application/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/Leadgen_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="120" column="95" selection-start-line="120" selection-start-column="83" selection-end-line="120" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/role_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="20" column="135" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/font_icon_picker.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="181" selection-start-line="4" selection-start-column="181" selection-end-line="4" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form15.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="1" column="177" selection-start-line="1" selection-start-column="177" selection-end-line="1" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form14.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="177" selection-start-line="1" selection-start-column="177" selection-end-line="1" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/purchase_form13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="181" selection-start-line="4" selection-start-column="181" selection-end-line="4" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/success_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/property_used.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="167" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/property_type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="75" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="82" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/refinance_form7_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="131" selection-start-line="7" selection-start-column="131" selection-end-line="7" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Leadgen/Leadgen_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.rules.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/y/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Leadgen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6205">
+          <caret line="370" column="49" lean-forward="true" selection-start-line="370" selection-start-column="49" selection-end-line="370" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
